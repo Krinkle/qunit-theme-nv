@@ -1,4 +1,4 @@
-# QUnit NV Theme
+# QUnit NV Theme [![Build Status](https://travis-ci.org/Krinkle/qunit-theme-nv.png)](https://travis-ci.org/Krinkle/qunit-theme-nv)
 
 ## Usage
 
