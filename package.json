@@ -2,7 +2,7 @@
   "name": "qunit-theme-nv",
   "title": "QUnit NV Theme",
   "description": "A QUnit theme.",
-  "version": "1.0.1-pre",
+  "version": "1.0.1",
   "author": {
     "name": "jQuery Foundation and other contributors",
     "url": "https://github.com/Krinkle/qunit-theme-nv/blob/master/AUTHORS.txt"

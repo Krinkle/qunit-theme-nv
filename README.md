@@ -10,4 +10,4 @@
 
 See `test/index.html` for an example.
 
-![Screenshot of v1.0.0](http://i.imgur.com/EuVdxEr.png)
+![Screenshot of v1.0.1](http://i.imgur.com/EuVdxEr.png)
