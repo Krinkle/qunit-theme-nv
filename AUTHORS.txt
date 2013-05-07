@@ -1,0 +1,4 @@
+Nikita Vasilyev <me@elv1s.ru>
+Jörn Zaefferer <joern.zaefferer@gmail.com>
+Rick Waldron <waldron.rick@gmail.com>
+Timo Tijhof <krinklemail@gmail.com>
