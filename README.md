@@ -1,4 +1,4 @@
-# QUnit NV Theme [![Build Status](https://travis-ci.org/Krinkle/qunit-theme-nv.png)](https://travis-ci.org/Krinkle/qunit-theme-nv) [![NPM version](https://badge.fury.io/js/qunit-theme-nv.png)](http://badge.fury.io/js/qunit-theme-nv)
+# QUnit NV Theme [![Build Status](https://travis-ci.org/Krinkle/qunit-theme-nv.svg?branch=master)](https://travis-ci.org/Krinkle/qunit-theme-nv) [![NPM version](https://badge.fury.io/js/qunit-theme-nv.svg)](https://badge.fury.io/js/qunit-theme-nv)
 
 ## Usage
 
@@ -8,6 +8,6 @@
 
 ## Example
 
-See `test/index.html` for an example.
+See [`test/index.html`](https://krinkle.github.io/qunit-theme-nv/test/) for a demo.
 
 ![Screenshot of v1.0.1](http://i.imgur.com/EuVdxEr.png)
