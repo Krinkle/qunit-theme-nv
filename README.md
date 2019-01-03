@@ -5,8 +5,7 @@
 ## Usage
 
 1. Install this plugin (either as git submodule, as npm dependency, or otherwise)
-2. Remove `<link rel="stylesheet" href="qunitjs/qunit/qunit.css">`
-3. Add `<link rel="stylesheet" href="qunit-theme-nv/qunit-theme-nv.css">`
+2. Replace `<link rel="stylesheet" href="qunit/qunit/qunit.css">` with `<link rel="stylesheet" href="node_modules/qunit-theme-nv/qunit.css">`
 
 ## Example
 
